@@ -1,0 +1,20 @@
+{
+  "name": "cmui",
+  "version": "1.0.0",
+  "description": "cmui is ui",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cmui"
+  ],
+  "author": "chalecao(ch19900606@gmail.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "glob": "^7.1.1"
+  }
+}
